@@ -3,3 +3,6 @@ function friend(friends){
     return friends;
   }
   friend(["Ryan", "Kieran", "Mark"]) //["Ryan", "Mark"]
+
+
+  // https://www.codewars.com/kata/55b42574ff091733d900002f
